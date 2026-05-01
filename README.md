@@ -36,5 +36,5 @@ Kennedy, "Robust Op-Amp realization of Chua's circuit" Frequenz vol 40 no. 3-4 (
 
 
 
-The programs in the "Experimental Programs" folder are those that are used to process current and voltage data obtained from a realized Chua circuit. 
+The programs in the "Experimental Programs" folder are those that are used to process current and voltage data obtained from a realized Chua diode. 
 
